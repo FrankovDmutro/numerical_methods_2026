@@ -1,3 +1,5 @@
 .idea
 example.pdf
 labs/
+__pycache__/
+*.pyc
