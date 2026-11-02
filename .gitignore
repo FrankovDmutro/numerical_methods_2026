@@ -3,3 +3,6 @@ example.pdf
 labs/
 __pycache__/
 *.pyc
+generate_report.py
+report.html
+report.pdf
